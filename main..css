@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300,400,700&subset=cyrillic');
+
+* {
+    font-family: "Times New Roman" , Georgia serif;
+}
+
+
+body :nth-child(2) {
+    font-family: Arial , Verdana , sans-serif ;
+}
+body :nth-child(3) {
+    font-family: monospace ;
+}
+body :nth-child(4) {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+}
